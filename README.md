@@ -17,6 +17,10 @@ The DSF have licensed DEFNA to run DjangoCon US for 2015 to 2019. Beyond DjangoC
 - Jeff Triplett, President (2015 to present)
 - Craig Bruce, Treasurer (2015 to present)
 - Stacey Haysler, Corporate Secretary (2015 to present)
+- Heather "Heats" Luna (2017 to present)
+- Kojo Idrissa (2017 to present)
+- Katherine "Kati" Michel (2017 to present)
+- Monique Murphy (2017 to present)
 
 ## Past Board Members
 
