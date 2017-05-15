@@ -1,6 +1,6 @@
 # DEFNA
 
-[Django Events Foundation of North America (DEFNA)][DEFNA] is a non-profit based in California USA. It was formed in 2015 at the request of the [Django Software Foundation (DSF)][DSF] to run [DjangoCon US][]. 
+[Django Events Foundation of North America (DEFNA)][DEFNA] is a 501(c)(3) non-profit based in California USA. It was formed in 2015 at the request of the [Django Software Foundation (DSF)][DSF] to run [DjangoCon US][]. 
 
 The DSF have licensed DEFNA to run DjangoCon US for 2015 to 2019. Beyond DjangoCon US, we also plan to be involved with other events in North America that cover the education and outreach of Django.
 
@@ -8,7 +8,7 @@ The DSF have licensed DEFNA to run DjangoCon US for 2015 to 2019. Beyond DjangoC
 
 **Official name:** DEFNA
 
-**Other names:** Django Events Foundation of North America
+**Other names:** Django Events Foundation North America
 
 **Address:** 1320 Harbor Bay Parkway Ste 175, Alameda CA 94502-6589, U.S.A.
 
