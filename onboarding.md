@@ -2,6 +2,8 @@
 
 This is a checklist used for adding new board members.
 
+See [DjangoCon US setup instructions](https://github.com/djangocon/djangocon-us-docs/blob/master/howtos/new-team-member.md)
+
 - [ ] Google Apps:
     - [ ] Create @defna.org email address
     - [ ] Add email to hello@defna.org
