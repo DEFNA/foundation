@@ -13,6 +13,8 @@ This is a checklist used for adding new board members.
 - [ ] 1password
 - [ ] Dropbox
 - [ ] GitHub
+  - [ ] [DEFNA](https://github.com/DEFNA)
+  - [ ] [DjangoCon](https://github.com/djangocon)
 - [ ] Google Drive
 - [ ] Trello Organization
 - [ ] Twitter via Tweetdeck
