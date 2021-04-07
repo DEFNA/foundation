@@ -14,15 +14,56 @@ The DSF have licensed DEFNA to run DjangoCon US from 2015 to 2022, with an agree
 
 ## Current Board Members
 
-- Katia Lira, President (2018 to present)
-- Drew Winstel, Vice President (2021 to present)
-- Jen Myers, Treasurer (2021 to present)
-- Katherine "Kati" Michel, Corporate Secretary (2017 to present)
+- Josue Balandrano Coronel (2018 to present)
 - Adam Fast (2018 to present)
 - Carol Ganz (2021 to present)
-- Jeff Triplett (2015 to present)
-- Josue Balandrano Coronel (2018 to present)
+- Katia Lira (2018 to present)
+- Katherine "Kati" Michel (2017 to present)
 - Monique Murphy (2017 to present)
+- Jen Myers (2021 to present)
+- Jeff Triplett (2015 to present)
+- Drew Winstel (2021 to present)
+
+### Officers
+
+#### 2021
+- Katia Lira, President
+- Drew Winstel, Vice President
+- Jen Myers, Treasurer
+- Katherine "Kati" Michel, Corporate Secretary
+
+#### 2020
+- Jeff Triplett, President
+- Katia Lira, Vice President
+- Monique Murphy, Treasurer
+- Katherine "Kati" Michel, Corporate Secretary
+
+#### 2019
+- Jeff Triplett, President
+- Katia Lira, Vice President [did she start 2019 or 2020?]
+- Craig Bruce, Treasurer
+- Adam Fast, Corporate Secretary
+
+#### 2018
+- Jeff Triplett, President
+- Craig Bruce, Treasurer
+- Adam Fast, Corporate Secretary
+
+#### 2017
+- Jeff Triplett, President
+- Craig Bruce, Treasurer
+- Stacey Haysler, Corporate Secretary
+
+#### 2016
+- Jeff Triplett, President
+- Craig Bruce, Treasurer
+- Stacey Haysler, Corporate Secretary
+
+#### 2015
+- Jeff Triplett, President
+- Craig Bruce, Treasurer
+- Stacey Haysler, Corporate Secretary
+
 
 ## Past Board Members
 
