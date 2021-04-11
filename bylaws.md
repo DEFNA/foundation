@@ -606,7 +606,7 @@ Monique Murphy, Director
 
 
 ____________________
-Jen Myers, Director
+Jennifer Myers, Director
 
 
 ____________________
