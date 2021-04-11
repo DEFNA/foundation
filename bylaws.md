@@ -575,7 +575,7 @@ The corporation has issued no shares of stock, and has no shareholders.
 
 ## WRITTEN CONSENT OF DIRECTORS ADOPTING BYLAWS ##
 
-We, the undersigned, are all of the persons acting as the initial directors of Django Events Foundation North America, a California nonprofit corporation, and, pursuant to the authority granted to the directors by these bylaws to take action by unanimous written consent without a meeting, consent to, and hereby do, adopt the foregoing bylaws, consisting of 35 pages, as the bylaws of this corporation.
+We, the undersigned, are all of the persons acting as the directors of Django Events Foundation North America, a California nonprofit corporation, and, pursuant to the authority granted to the directors by these bylaws to take action by unanimous written consent without a meeting, consent to, and hereby do, adopt the foregoing bylaws, consisting of 35 pages, as the bylaws of this corporation.
 
 Dated: April 9, 2021
 
