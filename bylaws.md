@@ -577,12 +577,8 @@ The corporation has issued no shares of stock, and has no shareholders.
 
 We, the undersigned, are all of the persons acting as the directors of Django Events Foundation North America, a California nonprofit corporation, and, pursuant to the authority granted to the directors by these bylaws to take action by unanimous written consent without a meeting, consent to, and hereby do, adopt the foregoing bylaws, consisting of 35 pages, as the bylaws of this corporation.
 
-Dated: April 9, 2021
+Dated: April 11, 2021
 
-
-
-____________________
-Josue Balandrano Coronel, Director
 
 
 ____________________
@@ -594,15 +590,7 @@ Carol Ganz, Director
 
 
 ____________________
-Katia Lira, Director
-
-
-____________________
-Katherine Michel, Director
-
-
-____________________
-Monique Murphy, Director
+Jeffrey Triplett, Director
 
 
 ____________________
@@ -610,7 +598,19 @@ Jennifer Myers, Director
 
 
 ____________________
-Jeffrey Triplett, Director
+Josue Balandrano Coronel, Director
+
+
+____________________
+Katherine Michel, Director
+
+
+____________________
+Katia Lira, Director
+
+
+____________________
+Monique Murphy, Director
 
 
 ____________________
@@ -622,7 +622,7 @@ Robert Andrew Winstel, Director
 
 This is to certify that the foregoing is a true and correct copy of the bylaws of the corporation named in the title thereto and that such bylaws were duly adopted by the board of directors of said corporation on the date set forth below.
 
-Dated: April 9, 2021
+Dated: April 11, 2021
 
 ____________________
 Katherine Michel, Secretary
