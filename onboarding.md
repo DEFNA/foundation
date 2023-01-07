@@ -7,7 +7,6 @@ See [DjangoCon US setup instructions](https://github.com/djangocon/djangocon-us-
 - [ ] Google Apps:
     - [ ] Create @defna.org email address
     - [ ] Add email to hello@defna.org
-    - [ ] Add email to contact@defna.org
 - [ ] Add to Google Drive
 - [ ] GitHub
   - [ ] Add to [DEFNA](https://github.com/DEFNA) GitHub Organization 
