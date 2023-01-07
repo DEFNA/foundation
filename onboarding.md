@@ -8,15 +8,16 @@ See [DjangoCon US setup instructions](https://github.com/djangocon/djangocon-us-
     - [ ] Create @defna.org email address
     - [ ] Add email to hello@defna.org
     - [ ] Add email to contact@defna.org
-- [ ] Squarespace account
-    - [ ] Add Contributor
+- [ ] Add to Google Drive
+- [ ] GitHub
+  - [ ] Add to [DEFNA](https://github.com/DEFNA) GitHub Organization 
+    - [ ] Add to [Board Team](https://github.com/orgs/DEFNA/teams/board)
+  - [ ] Add to [DjangoCon](https://github.com/djangocon) GitHub Organization 
+- [ ] Add to 1password
+
+- [ ] ~~Dropbox~~
+- [ ] ~~Trello Organization~~
+- [ ] ~~Twitter via Tweetdeck~~
+- [ ] Add to [defna.org](https://github.com/DEFNA/defna.org) website 
     - [ ] Add bio to website
     - [ ] Add photo to website
-- [ ] 1password
-- [ ] Dropbox
-- [ ] GitHub
-  - [ ] [DEFNA](https://github.com/DEFNA)
-  - [ ] [DjangoCon](https://github.com/djangocon)
-- [ ] Google Drive
-- [ ] Trello Organization
-- [ ] Twitter via Tweetdeck
