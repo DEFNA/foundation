@@ -14,10 +14,11 @@ See [DjangoCon US setup instructions](https://github.com/djangocon/djangocon-us-
     - [ ] Add to [Board Team](https://github.com/orgs/DEFNA/teams/board)
   - [ ] Add to [DjangoCon](https://github.com/djangocon) GitHub Organization 
 - [ ] Add to 1password
-
-- [ ] ~~Dropbox~~
-- [ ] ~~Trello Organization~~
-- [ ] ~~Twitter via Tweetdeck~~
 - [ ] Add to [defna.org](https://github.com/DEFNA/defna.org) website 
     - [ ] Add bio to website
     - [ ] Add photo to website
+
+## Past things?
+- [ ] ~~Dropbox~~
+- [ ] ~~Trello Organization~~
+- [ ] ~~Twitter via Tweetdeck~~
