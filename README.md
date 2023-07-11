@@ -14,16 +14,22 @@ The DSF have licensed DEFNA to run DjangoCon US from 2015 to 2022, with an agree
 
 ## Current Board Members
 
-- Josue Balandrano Coronel (2018 to present)
-- Aaron Bassett (2022 to present)
 - Adam Fast (2018 to present)
 - Carol Ganz (2021 to present)
 - Katherine "Kati" Michel (2017 to present)
 - Jen Myers (2021 to present)
+- Peter Grandstaff (2023 to present)
+- Tim Schilling (2023 to present)
 - Jeff Triplett (2015 to present)
 - Drew Winstel (2021 to present)
 
 ### Officers
+
+#### 2023
+- Peter Grandstaff, President
+- Drew Winstel, Vice President
+- Jen Myers, Treasurer
+- Tim Schilling, Corporate Secretary
 
 #### 2022
 - Jeff Triplett, President
@@ -76,8 +82,10 @@ The DSF have licensed DEFNA to run DjangoCon US from 2015 to 2022, with an agree
 - Stacey Haysler (2015 to 2018)
 - Heather "Heats" Luna (2017 to 2018)
 - Kojo Idrissa (2017 to 2018)
-- Katia Lira (2018 to present)
-- Monique Murphy (2017 to present)
+- Katia Lira (2018 to 2022)
+- Monique Murphy (2017 to 2022)
+- Josue Balandrano Coronel (2018 to 2022)
+- Aaron Bassett (2022 to 2023)
 
 ## More Information
 
