@@ -10,13 +10,14 @@ See [DjangoCon US setup instructions](https://github.com/djangocon/djangocon-us-
     - [ ] Add email to hello@defna.org
 - [ ] Add to Google Drive
 - [ ] GitHub
-  - [ ] Add to [DjangoCon](https://github.com/djangocon) GitHub Organization (if not already a member)
-  - [ ] Add to [DEFNA](https://github.com/DEFNA) GitHub Organization 
+  - [ ] Add to [DjangoCon](https://github.com/djangocon) Organization (if not already a member)
+  - [ ] Add to [DEFNA](https://github.com/DEFNA) Organization 
   - [ ] Add to [Board Team](https://github.com/orgs/DEFNA/teams/board)
 - [ ] Add to 1password
 - [ ] Add to [defna.org](https://github.com/DEFNA/defna.org) website 
-    - [ ] Add bio to website
-    - [ ] Add photo to website
+    - [ ] Add bio
+    - [ ] Add photo
+    - [ ] Blog about addition (can be part of our board updates about officers too)
 
 ## Past things?
 - [ ] ~~Dropbox~~
