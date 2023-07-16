@@ -88,9 +88,9 @@ c) The corporation adopts and implements some means of verifying (1) that all pe
 
 ### SECTION 8. REGULAR AND ANNUAL MEETINGS ###
 
-Regular meetings of directors shall be held on the first Wednesday of each month at 2:00 PM Central Time, unless such day falls on a legal holiday or a significant number of directors are unable to attend, in which event the regular meeting shall be held at the same hour and place on the next business day or another generally agreed upon day.
+Regular meetings of directors shall be held regularly, at least once a month.
 
-If this corporation makes no provision for members, then, at the annual meeting of directors held on the first Wednesday of March, directors shall be elected by the board of directors in accordance with this section. Cumulative voting by directors for the election of directors shall not be permitted. The candidates receiving the highest number of votes up to the number of directors to be elected shall be elected. Each director shall cast one vote, with voting being by ballot only.
+If this corporation makes no provision for members, then, at the annual meeting of directors held on the monthly meeting in March, directors shall be elected by the board of directors in accordance with this section. Cumulative voting by directors for the election of directors shall not be permitted. The candidates receiving the highest number of votes up to the number of directors to be elected shall be elected. Each director shall cast one vote, with voting being by ballot only.
 
 ### SECTION 9. SPECIAL MEETINGS ###
 
