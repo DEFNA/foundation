@@ -150,6 +150,8 @@ Vacancies on the board may be filled by approval of the board or, if the number 
 
 A person elected to fill a vacancy as provided by this Section shall hold office until the next annual election of the board of directors or until his or her death, resignation, or removal from office.
 
+If a director is absent without giving notice or designating a proxy for three regular meetings all in separate months in a four month period, a vote will automatically be held in the next meeting of directors to consider removal of the director from the board.
+
 ### SECTION 18. NONLIABILITY OF DIRECTORS ###
 
 The directors shall not be personally liable for the debts, liabilities, or other obligations of the corporation.
