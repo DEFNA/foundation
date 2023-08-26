@@ -47,7 +47,7 @@ Subject to the provisions of the California Nonprofit Public Benefit Corporation
 ### SECTION 3. DUTIES ###
 
 It shall be the duty of the directors to:
-Fse
+
 (a) Perform any and all duties imposed on them collectively or individually by law, by the articles of incorporation of this corporation, or by these bylaws;
 
 (b) Appoint and remove, employ and discharge, and, except as otherwise provided in these bylaws, prescribe the duties and fix the compensation, if any, of all officers, agents, and employees of the corporation;
