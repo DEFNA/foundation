@@ -88,7 +88,7 @@ c) The corporation adopts and implements some means of verifying (1) that all pe
 
 ### SECTION 8. REGULAR AND ANNUAL MEETINGS ###
 
-Regular meetings of directors shall be held regularly, at least once a month unless the board votes to not hold a meeting.
+Regular meetings of directors shall be held regularly, at least once a quarter, unless the board votes to not hold a meeting.
 
 If this corporation makes no provision for members, then, at the annual meeting of directors held on the monthly meeting in March, directors shall be elected by the board of directors in accordance with this section. Cumulative voting by directors for the election of directors shall not be permitted. The candidates receiving the highest number of votes up to the number of directors to be elected shall be elected. Each director shall cast one vote, with voting being by ballot only.
 
