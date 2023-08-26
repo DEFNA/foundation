@@ -47,7 +47,7 @@ Subject to the provisions of the California Nonprofit Public Benefit Corporation
 ### SECTION 3. DUTIES ###
 
 It shall be the duty of the directors to:
-
+Fse
 (a) Perform any and all duties imposed on them collectively or individually by law, by the articles of incorporation of this corporation, or by these bylaws;
 
 (b) Appoint and remove, employ and discharge, and, except as otherwise provided in these bylaws, prescribe the duties and fix the compensation, if any, of all officers, agents, and employees of the corporation;
@@ -132,7 +132,7 @@ Meetings shall be governed by Roberts Rules of Order, as such rules may be revis
 
 ### SECTION 16. ACTION BY MAJORITY WRITTEN CONSENT WITHOUT MEETING ###
 
-Any action required or permitted to be taken by the board of directors under any provision of law may be taken without a meeting, if the majority of members of the board shall individually or collectively consent in writing to such action. If a member of the board fails to cast a vote or request additional time within ten days after the motion to vote was seconded in an email to the entire board, that member will be considered to have abstained from the vote. For the purposes of this Section only, “all members of the board” shall not include any “interested director” as defined in Section 5233 of the California Nonprofit Public Benefit Corporation Law. Such written consent or consents shall be filed with the minutes of the proceedings of the board. Such action by written consent shall have the same force and effect as a similar vote of the directors. Any certificate or other document filed under any provision of law which relates to action so taken shall state that the action was taken by written consent of the board of directors without a meeting and that the bylaws of this corporation authorize the directors to so act, and such statement shall be prima facie evidence of such authority.
+Any action required or permitted to be taken by the board of directors under any provision of law may be taken without a meeting, if the majority of members of the board shall individually or collectively consent in writing to such action. If a member of the board fails to cast a vote or request additional time within ten days after the motion to vote was seconded in an email to the entire board, that member will be considered to have abstained from the vote. Any member of the board can veto the email vote and force the vote to be held during the next regular meeting. This veto can occur anytime within the ten day period after the motion to vote was seconded. For the purposes of this Section only, “all members of the board” shall not include any “interested director” as defined in Section 5233 of the California Nonprofit Public Benefit Corporation Law. Such written consent or consents shall be filed with the minutes of the proceedings of the board. Such action by written consent shall have the same force and effect as a similar vote of the directors. Any certificate or other document filed under any provision of law which relates to action so taken shall state that the action was taken by written consent of the board of directors without a meeting and that the bylaws of this corporation authorize the directors to so act, and such statement shall be prima facie evidence of such authority.
 
 ### SECTION 17. VACANCIES ###
 
