@@ -600,23 +600,23 @@ Jennifer Myers, Director
 
 
 ____________________
-Josue Balandrano Coronel, Director
-
-
-____________________
 Katherine Michel, Director
 
 
 ____________________
-Katia Lira, Director
+Nicole Dominguez, Director
 
 
 ____________________
-Monique Murphy, Director
+Peter Grandstaff, Director
 
 
 ____________________
 Robert Andrew Winstel, Director
+
+
+____________________
+Tim Schilling, Director
 
 
 
@@ -624,7 +624,7 @@ Robert Andrew Winstel, Director
 
 This is to certify that the foregoing is a true and correct copy of the bylaws of the corporation named in the title thereto and that such bylaws were duly adopted by the board of directors of said corporation on the date set forth below.
 
-Dated: April 11, 2021
+Dated: Sept 26, 2023
 
 ____________________
-Katherine Michel, Secretary
+Tim Schilling, Secretary
