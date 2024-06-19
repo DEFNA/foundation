@@ -16,14 +16,20 @@ The DSF have licensed DEFNA to run DjangoCon US from 2015 to 2022, with an agree
 
 - Adam Fast (2018 to present)
 - Carol Ganz (2021 to present)
+- Drew Winstel (2021 to present)
+- Jeff Triplett (2015 to present)
 - Katherine "Kati" Michel (2017 to present)
-- Jen Myers (2021 to present)
 - Peter Grandstaff (2023 to present)
 - Tim Schilling (2023 to present)
-- Jeff Triplett (2015 to present)
-- Drew Winstel (2021 to present)
+- Velda Kiara (2024 to present)
 
 ### Officers
+
+#### 2024
+- Peter Grandstaff, President
+- Carol Ganz, Vice President
+- Adam Fast, Treasurer
+- Tim Schilling, Corporate Secretary
 
 #### 2023
 - Peter Grandstaff, President
@@ -86,6 +92,7 @@ The DSF have licensed DEFNA to run DjangoCon US from 2015 to 2022, with an agree
 - Monique Murphy (2017 to 2022)
 - Josue Balandrano Coronel (2018 to 2022)
 - Aaron Bassett (2022 to 2023)
+- Jen Myers (2021 to 2024)
 
 ## More Information
 
