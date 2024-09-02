@@ -19,6 +19,7 @@ The DSF have licensed DEFNA to run DjangoCon US from 2015 to 2022, with an agree
 - Drew Winstel (2021 to present)
 - Jeff Triplett (2015 to present)
 - Katherine "Kati" Michel (2017 to present)
+- Nicole Dominguez (2023 to present)
 - Peter Grandstaff (2023 to present)
 - Tim Schilling (2023 to present)
 - Velda Kiara (2024 to present)
