@@ -38,7 +38,7 @@ The primary objectives and purposes of this corporation shall be: the provision 
 
 ### SECTION 1. NUMBER ###
 
-The corporation shall have a minimum of three directors, and a maximum of nine directors, and collectively they shall be known as the board of directors. The number may be changed by amendment of this bylaw, or by repeal of this bylaw and adoption of a new bylaw, as provided in these bylaws.
+The corporation shall have a minimum of three directors, and a maximum of ten directors, and collectively they shall be known as the board of directors. The number may be changed by amendment of this bylaw, or by repeal of this bylaw and adoption of a new bylaw, as provided in these bylaws.
 
 ### SECTION 2. POWERS ###
 
