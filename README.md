@@ -21,8 +21,9 @@ The DSF have licensed DEFNA to run DjangoCon US from 2015 to 2022, with an agree
 - Katherine "Kati" Michel (2017 to present)
 - Nicole Dominguez (2023 to present)
 - Peter Grandstaff (2023 to present)
-- Tim Schilling (2023 to present)
 - Velda Kiara (2024 to present)
+- Miguel Sanda (2025 to present)
+- Nathan Zeager (2025 to present)
 
 ### Officers
 
@@ -94,6 +95,7 @@ The DSF have licensed DEFNA to run DjangoCon US from 2015 to 2022, with an agree
 - Josue Balandrano Coronel (2018 to 2022)
 - Aaron Bassett (2022 to 2023)
 - Jen Myers (2021 to 2024)
+- Tim Schilling (2023 to 2025)
 
 ## More Information
 
