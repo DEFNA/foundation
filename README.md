@@ -18,7 +18,6 @@ The DSF have licensed DEFNA to run DjangoCon US from 2015 to 2022, with an agree
 - Carol Ganz (2021 to present)
 - Drew Winstel (2021 to present)
 - Jeff Triplett (2015 to present)
-- Katherine "Kati" Michel (2017 to present)
 - Nicole Dominguez (2023 to present)
 - Peter Grandstaff (2023 to present)
 - Velda Kiara (2024 to present)
@@ -26,6 +25,12 @@ The DSF have licensed DEFNA to run DjangoCon US from 2015 to 2022, with an agree
 - Nathan Zeager (2025 to present)
 
 ### Officers
+
+#### 2025
+- Peter Grandstaff, President
+- Nicole Dominguez, Vice President
+- Miguel Sanda, Treasurer
+- Nathan Zeager, Corporate Secretary
 
 #### 2024
 - Peter Grandstaff, President
@@ -83,7 +88,6 @@ The DSF have licensed DEFNA to run DjangoCon US from 2015 to 2022, with an agree
 - Craig Bruce, Treasurer
 - Stacey Haysler, Corporate Secretary
 
-
 ## Past Board Members
 
 - Craig Bruce (2015 to 2021)
@@ -96,6 +100,7 @@ The DSF have licensed DEFNA to run DjangoCon US from 2015 to 2022, with an agree
 - Aaron Bassett (2022 to 2023)
 - Jen Myers (2021 to 2024)
 - Tim Schilling (2023 to 2025)
+- Katherine "Kati" Michel (2017 to 2025)
 
 ## More Information
 
